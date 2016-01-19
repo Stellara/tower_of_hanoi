@@ -26,9 +26,11 @@ A breakable toy to practice principles of OO Design as laid out in [Practical Ob
 
 ## Features:
 - towers
+  - have a position
   - hold discs
 - discs
-  - has a size
+  - have a position
+  - have a size
 - placing discs
 - validating disc placement
 - basic graphic representation of towers and discs
